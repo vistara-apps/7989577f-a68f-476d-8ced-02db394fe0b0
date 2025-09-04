@@ -1,0 +1,14 @@
+{
+  "name": "AdGenie Remix",
+  "description": "AdGenie Remix is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://7989577f-a68f-476d-8ced-02db394fe0b0.vistara.dev",
+  "properties": {
+    "app": {
+      "name": "AdGenie Remix",
+      "description": "AdGenie Remix is a Base Mini App built with Zara.",
+      "url": "https://7989577f-a68f-476d-8ced-02db394fe0b0.vistara.dev",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}

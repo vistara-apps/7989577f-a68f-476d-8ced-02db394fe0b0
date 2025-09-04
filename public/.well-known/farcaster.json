@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "AdGenie Remix",
+    "subtitle": "Built with Zara",
+    "description": "AdGenie Remix is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://7989577fa68f476d8ced02db394fe0b0-t7by-me6otbzc2-vistara.vercel.app",
+    "splashImageUrl": "https://7989577fa68f476d8ced02db394fe0b0-t7by-me6otbzc2-vistara.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://7989577fa68f476d8ced02db394fe0b0-t7by-me6otbzc2-vistara.vercel.app/image.png",
+    "tagline": "AdGenie Remix",
+    "screenshotUrls": [
+      "https://7989577fa68f476d8ced02db394fe0b0-t7by-me6otbzc2-vistara.vercel.app/screenshot.png",
+      "https://7989577fa68f476d8ced02db394fe0b0-t7by-me6otbzc2-vistara.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://7989577fa68f476d8ced02db394fe0b0-t7by-me6otbzc2-vistara.vercel.app/api/webhook"
+  }
+}
